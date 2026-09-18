@@ -1,4 +1,4 @@
-# ESP32-S3 SIM7670X OV2640 Camera Server
+# ESP32-S3 SIM7670X 4G + OV2640 Camera Web Server
 
 A working Arduino camera web server for the **Waveshare ESP32-S3-A/SIM7670X-4G** development board with an **OV2640** camera. The project adds the board-specific camera pin map to Espressif's CameraWebServer example and serves a live MJPEG stream plus camera controls over Wi-Fi.
 
