@@ -1,0 +1,15 @@
+# Local Wi-Fi credentials
+**/secrets.h
+
+# Arduino build output and editor metadata
+build/
+**/build/
+.arduinoIDE/
+.vscode/
+*.bin
+*.elf
+*.map
+
+# OS-generated files
+.DS_Store
+Thumbs.db
